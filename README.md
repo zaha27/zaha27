@@ -1,6 +1,6 @@
 ### Hi, I'm Andrei
 
-Computer engineering student, working part-time as a Software Engineer. Making quantized LLMs work well for Romanian. I build trading bots, software tools for businesses and automation tools, plus my own configuration files for Arch, Nix, macOS, Claude, Codex and more.
+Computer engineering student, working part-time as a Software Engineer. For my bachelor's thesis I'm making quantized LLMs work well for Romanian, and I like experimenting with local AI models. I build trading bots, software and automation tools for businesses, plus my own configuration files for Arch, Nix, macOS, Claude, Codex and more.
 
 **Interests:** LLM quantization · ML systems · automation · developer tooling
 
