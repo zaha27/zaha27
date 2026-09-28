@@ -2,19 +2,19 @@
 <style>text{font:14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}.pct{fill:#59636e;font-size:13px}.track{fill:#eaeef2}@media (prefers-color-scheme:dark){text{fill:#e6edf3}.pct{fill:#9198a1}.track{fill:#21262d}}</style>
 <circle cx="16" cy="11" r="5" fill="#3572A5"/>
 <text x="28" y="16">Python</text>
-<text class="pct" x="470" y="16" text-anchor="end">47.4%</text>
+<text class="pct" x="470" y="16" text-anchor="end">47.6%</text>
 <rect class="track" x="10" y="23" width="460" height="8" rx="4"/>
-<rect x="10" y="23" width="218.1" height="8" rx="4" fill="#3572A5"/>
+<rect x="10" y="23" width="218.8" height="8" rx="4" fill="#3572A5"/>
 <circle cx="16" cy="45" r="5" fill="#3178c6"/>
 <text x="28" y="50">TypeScript</text>
-<text class="pct" x="470" y="50" text-anchor="end">31.6%</text>
+<text class="pct" x="470" y="50" text-anchor="end">31.5%</text>
 <rect class="track" x="10" y="57" width="460" height="8" rx="4"/>
-<rect x="10" y="57" width="145.2" height="8" rx="4" fill="#3178c6"/>
+<rect x="10" y="57" width="144.8" height="8" rx="4" fill="#3178c6"/>
 <circle cx="16" cy="79" r="5" fill="#3D6117"/>
 <text x="28" y="84">TeX</text>
-<text class="pct" x="470" y="84" text-anchor="end">16.7%</text>
+<text class="pct" x="470" y="84" text-anchor="end">16.6%</text>
 <rect class="track" x="10" y="91" width="460" height="8" rx="4"/>
-<rect x="10" y="91" width="76.6" height="8" rx="4" fill="#3D6117"/>
+<rect x="10" y="91" width="76.4" height="8" rx="4" fill="#3D6117"/>
 <circle cx="16" cy="113" r="5" fill="#DA5B0B"/>
 <text x="28" y="118">Jupyter Notebook</text>
 <text class="pct" x="470" y="118" text-anchor="end">1.6%</text>
