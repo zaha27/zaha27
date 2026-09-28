@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TOP_N = 6
+TOP_N = 3
 EXCLUDE = set()  # e.g. {"HTML", "CSS"} to hide languages from the card
 
 REPOS_QUERY = """
