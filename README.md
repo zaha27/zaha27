@@ -1,6 +1,6 @@
 ### Hi, I'm Andrei
 
-Computer engineering student. Working on my thesis, *Lost in Quantization*: making quantized LLMs work well for Romanian. I build trading bots, CRMs and automation tools, and my own Claude Code workflow ([skills](https://github.com/zaha27/skills)).
+Computer engineering student, working part-time as a Software Engineer. Making quantized LLMs work well for Romanian. I build trading bots, software tools for businesses and automation tools, plus my own configuration files for Arch, Nix, macOS, Claude, Codex and more.
 
 **Interests:** LLM quantization · ML systems · automation · developer tooling
 
