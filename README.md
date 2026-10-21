@@ -7,7 +7,7 @@ Computer engineering student, working part-time as a Software Engineer. For my b
 <!-- stats:start -->
 | Total Commits | Current Streak | Longest Streak |
 |:-:|:-:|:-:|
-| 2605 | 1 day | 113 days |
+| 2605 | 0 days | 113 days |
 <!-- stats:end -->
 
 **Top languages** (all repos, incl. private)
