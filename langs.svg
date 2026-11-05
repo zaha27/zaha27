@@ -4,7 +4,7 @@
 <text x="28" y="16">Python</text>
 <text class="pct" x="470" y="16" text-anchor="end">45.3%</text>
 <rect class="track" x="10" y="23" width="460" height="8" rx="4"/>
-<rect x="10" y="23" width="208.4" height="8" rx="4" fill="#3572A5"/>
+<rect x="10" y="23" width="208.5" height="8" rx="4" fill="#3572A5"/>
 <circle cx="16" cy="45" r="5" fill="#3178c6"/>
 <text x="28" y="50">TypeScript</text>
 <text class="pct" x="470" y="50" text-anchor="end">31.3%</text>
